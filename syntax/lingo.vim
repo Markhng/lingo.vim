@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:	LINGO
 " Maintainer:	Huang Yuxi <huangyuxi99@gmail.com>
-" Last Change:	2019 Nov 3
+" Last Change:	2020 Aug 10
 
 " Quit when a syntax file was already loaded
 if exists("b:current_syntax")
